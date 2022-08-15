@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PatikaApp",
+    "slug": "PatikaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PatikaApp"
+}
